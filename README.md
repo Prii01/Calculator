@@ -1,3 +1,3 @@
 # Calculator
---Mobile data application using Java
---Software used : Android Studio
+<li>Mobile data application using Java</li>
+<li>Software used : Android Studio</li>
